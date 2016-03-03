@@ -1,0 +1,16 @@
+{
+  "name": "cucumber-nightwatch",
+  "version": "0.0.1",
+  "description": "Run Cucumber tests with Nightwatch",
+  "author": {
+    "name": "kushang gajjar",
+    "email": "g.kushang@gmail.com"
+  },
+  "devDependencies": {
+    "cucumber": "^0.9.5",
+    "nightwatch": "^0.8.16"
+  },
+  "dependencies": {
+    "bluebird": "^3.3.3"
+  }
+}
